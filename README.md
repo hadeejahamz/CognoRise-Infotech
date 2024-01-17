@@ -1,4 +1,4 @@
-** Customer Personality Analysis**
+ Customer Personality Analysis
 
 Hi, I made this projct during my one month internship programme, conducted by CognoRise infotech. 
 This project focuses on exploring and analyzing the diverse personalities within our customer base. Leveraging data analytics, machine learning, and visualization techniques, we dive into customer behaviors, preferences, and spending patterns to unveil distinct customer segments. The application of KMeans clustering provides a structured approach to categorizing customers, enabling personalized strategies for engagement and service.
